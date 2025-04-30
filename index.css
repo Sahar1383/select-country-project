@@ -1,7 +1,6 @@
 .background-main{
   height: 1000px;
   position: relative;
-  width: 1500px;
   object-fit: contain;
 }
 .main-page{
@@ -12,7 +11,7 @@
 body{
   margin: 0;
   font-family: tahoma, arial;
-  max-width: 1500px;
+  max-width: 900px;
 }
 .main-item{
   padding: 60px 0px;
