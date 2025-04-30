@@ -1,6 +1,8 @@
 .background-main{
   height: 1000px;
   position: relative;
+  width: 1500px;
+  object-fit: contain;
 }
 .main-page{
   position: absolute;
@@ -9,11 +11,8 @@
 }
 body{
   margin: 0;
-  display: grid;
-  align-items: center;
-  justify-items: center;
   font-family: tahoma, arial;
-  max-width: 1400px;
+  max-width: 1500px;
 }
 .main-item{
   padding: 60px 0px;
@@ -34,6 +33,7 @@ body{
   display: grid;
   grid-template-rows: 1fr 1fr;
   justify-items: center;
+  margin-left: 350px;
 }
 input{
   padding: 5px;
