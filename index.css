@@ -13,6 +13,7 @@ body{
   align-items: center;
   justify-items: center;
   font-family: tahoma, arial;
+  max-width: 1400px;
 }
 .main-item{
   padding: 60px 0px;
